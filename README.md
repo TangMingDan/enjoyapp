@@ -7,6 +7,7 @@
 星座|笑话大全
 无|成语查询
 无|智能机器人
+
 该app分为两个部分,左边是显示的当天的万年历和星座运势,和功能菜单
 ![image](https://github.com/TangMingDan/enjoyapp/blob/master/images/1.png)
 右边是每个功能的具体实现
