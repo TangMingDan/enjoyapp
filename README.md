@@ -1,18 +1,19 @@
 # enjoyapp寒假作业
 ## app概述
+### 功能列表 
+ 每日运势|基本技能|
+--|:--:|
+万年历|历史上的今天
+星座|笑话大全
+无|成语查询
+无|智能机器人
 该app分为两个部分,左边是显示的当天的万年历和星座运势，和功能菜单
 ![image](https://github.com/TangMingDan/enjoyapp/blob/master/images/1.png)
 右边是每个功能的具体实现
 ### 星座运势和万年历
 每天会自动更新当天的运势，星座运势是一个下拉列表，可以下拉，获取其他星座的当天运势，默认是白羊座
 ![image](https://github.com/TangMingDan/enjoyapp/blob/master/images/3.png)
-### 功能列表 
- 每日运势|基本技能|
---|:--:|
-万年历|历史上的今天
-星座|笑话大全
--无-|成语查询
--无-|智能机器人
+### 基本功能
 #### 历史上的今天
 每天自动更新在历史上的今天发生的重大事件
 ![image](https://github.com/TangMingDan/enjoyapp/blob/master/images/2.png)
